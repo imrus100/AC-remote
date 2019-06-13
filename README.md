@@ -8,14 +8,14 @@
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
@@ -71,14 +71,14 @@ Bit7-Bit0: The LS byte of the sum of bytes 0 to 6
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
@@ -136,14 +136,14 @@ Bit7-Bit0: The LS byte of the sum of bytes 0 to 6
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
@@ -305,14 +305,14 @@ This packet is transmitted when the Weekly button is pressed on the remote. The 
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
@@ -506,14 +506,14 @@ Bit7-Bit0: The LS byte of the sum of bytes 0 to 24
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
@@ -703,14 +703,14 @@ Bit7-Bit0: The LS byte of the sum of bytes 0 to 24
 
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 |  1 | 0 | 0 | 0 | 1 |
+| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
 
 Fixed, always 0x11  
 
 #### Byte 1: Header byte1
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 0 | 0 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 1 | 1 | 0 | 1 | 1 | 0 | 1 | 0 |
 
 Fixed, always 0xDA
 
