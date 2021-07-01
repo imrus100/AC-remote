@@ -357,7 +357,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 **Example:** Timer status: On, temperature 25.5C  
 Timer On: 0b01 << 6 = 0b01000000 = 0x40
@@ -376,7 +376,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 10: On/Off time, Timer3, Sunday
@@ -391,7 +391,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 12: On/Off time, Timer4, Sunday
@@ -406,7 +406,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 14: On/Off time, Timer1, Monday
@@ -421,7 +421,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 16: On/Off time, Timer2, Monday
@@ -436,7 +436,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 18: On/Off time, Timer3, Monday
@@ -451,7 +451,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 20: On/Off time, Timer4, Monday
@@ -466,7 +466,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 22: On/Off time, Timer1, Tuesday
@@ -481,7 +481,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
-Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive
+Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
 Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
 
 #### Byte 24: On/Off time, Timer2, Tuesday
