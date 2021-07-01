@@ -262,7 +262,7 @@ Fixed, always 0x00
 
 Fixed, always 0xC1
 
-#### Byte 16: Econon / Sensor / Clean mode
+#### Byte 16: Econo / Sensor / Clean mode
 | Bit7 | Bit6 | Bit5 | Bit4 | Bit3 | Bit2 | Bit1 | Bit0 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 0 | 0 | 0 | c | e | 0 | s | 0 |
@@ -358,7 +358,7 @@ Bit7-Bit0: On or Off time in 10 minute units
 | s1 | s0 | t5 | t4 | t3 | t2 | t1 | t0 |
 
 Bit7-Bit6: Timer status, 01 - On, 10 - Off, 00 - inactive  
-Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.
+Bit5-Bit0: Temperature. Multiply the current temperature value by 2 and substract 20.  
 **Example:** Timer status: On, temperature 25.5C  
 Timer On: 0b01 << 6 = 0b01000000 = 0x40
 Temperature: 22.5 * 2 = 51, 51 - 20 = 31 = 0x1F
